@@ -1,0 +1,11 @@
+{
+  "name": "unit-testing-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CampbellD84/unit-testing-example.git",
+  "author": "Douglas Campbell <dacampbelltbone@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
